@@ -1,16 +1,17 @@
-### Hi there 👋
+# Web Dev
+  - Front End
+    - React
+    - NextJS
+    - Emotion
+  - Back End
+    - NodeJS
+    - Express
+    - Fastify
+# Game Dev
+  - Godot
+    - 2D
+  - Unity
+    - 2D
+    - VRM
 
-<!--
-**XVI-LoLz/xvi-lolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvi-lolz&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=react)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvi-lolz&count_private=true&show_icons=true&theme=react&hide=stars,prs,issues,)

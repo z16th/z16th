@@ -2,11 +2,10 @@
   - Front End
     - React
     - NextJS
-    - Emotion
+    - Remotion
+    - Tailwind
   - Back End
     - NodeJS
-    - Express
-    - Fastify
 # Game Dev
   - Godot
     - 2D
